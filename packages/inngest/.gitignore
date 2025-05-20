@@ -1,11 +1,11 @@
 # Built files
-dist
+# dist
 
 # Generated version file; always created pre-publish
-src/version.ts
+# src/version.ts
 
 # Release-only files; tree must be clean on release, so these can't be modified
-.npmrc
+# .npmrc
 
 # Local dev files
 coverage/
